@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  text-align: center;
+  padding: 20px;
+  img {
+    display: inline-block;
+    max-width: 200px;
+    margin-bottom: 20px;
+  }
+}
